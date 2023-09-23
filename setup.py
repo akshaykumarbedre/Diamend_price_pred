@@ -12,8 +12,8 @@ def get_req(file_path):
         return requirements
 
 setup(
-    name="src",
-    version='0.0.2',
+    name="scr",
+    version='0.0.1',
     author='AkshayKumarBM',
     author_email="akshaykumarbedre.bm@gmail.com",
     install_requires=get_req("requirements.txt"),
@@ -21,4 +21,4 @@ setup(
 )
 
 
-# python setup.py install 
+#python setup.py install 

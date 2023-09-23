@@ -4,4 +4,3 @@ seaborn
 flask
 scikit-learn
 dataclasses
--e .

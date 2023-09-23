@@ -1,0 +1,5 @@
+[ 2023-09-23 14:38:46,214 ] 21 root - INFO - data inestion started
+[ 2023-09-23 14:38:47,703 ] 29 root - INFO - data ingestion is succfullty 
+[ 2023-09-23 14:38:47,708 ] 24 root - INFO - data transform starts
+[ 2023-09-23 14:38:48,312 ] 42 root - INFO - saved pkl file of prepeoser
+[ 2023-09-23 14:38:50,676 ] 34 root - INFO - {'LinearRegression': 0.9363054599694648, 'Lasso': 0.9365466229285998, 'Ridge': 0.936302022684714, 'Elasticnet': 0.8532759305000309, 'DestionTree': 0.9567147937285745}

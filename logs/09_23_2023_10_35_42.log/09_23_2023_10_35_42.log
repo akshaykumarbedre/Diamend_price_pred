@@ -1,0 +1,4 @@
+[ 2023-09-23 10:35:43,344 ] 21 root - INFO - data inestion started
+[ 2023-09-23 10:35:44,842 ] 27 root - INFO - data ingestion is succfullty 
+[ 2023-09-23 10:35:44,847 ] 24 root - INFO - data transform starts
+[ 2023-09-23 10:35:45,451 ] 42 root - INFO - saved pkl file of prepeoser

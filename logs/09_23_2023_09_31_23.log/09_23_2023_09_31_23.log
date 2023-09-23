@@ -1,0 +1,2 @@
+[ 2023-09-23 09:31:24,300 ] 21 root - INFO - data inestion started
+[ 2023-09-23 09:31:24,301 ] 29 root - ERROR - data ingeion is stop due to [Errno 2] No such file or directory: 'notebook/data/gemstone.csv'
